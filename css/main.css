@@ -1,0 +1,165 @@
+/*Navbar*/
+
+.navbar {
+    margin: 0;
+    padding: 10px;
+}
+
+
+/*Fondo Header*/
+.fondo {
+  background-image: url(../assets/images/taxi.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center bottom;
+}
+
+/*Cuadro header*/
+.amarillo-box {
+  right: 0px;
+  background-color: #FBBE00;
+  margin-top: 100px;
+  float: right;
+}
+
+.contenido {
+  margin: 30px 20px 30px 20px;
+}
+.contenido-resp {
+  padding: 10px;
+  padding-bottom: 20px;
+}
+
+/*textos*/
+.blanco {
+  color: white;
+}
+.negrita {
+  font-weight: bold;
+}
+.abajo {
+  padding-bottom: 10px;
+}
+
+/*app section*/
+.app {
+  background-color: #FBBE00;
+}
+.app-box {
+  border: 1px solid white;
+  margin: 30px 0px;
+}
+.imagen {
+  padding: 32px;
+}
+.texto-app {
+  padding: 30px;    
+}
+
+.app-txt-box {
+    width: 63%;
+    font-size: 1.8rem;
+    font-weight: lighter;
+    padding: 9px;
+    
+}
+
+.app-resp {
+  border: 1px solid white;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+/*driver section*/
+.driver {
+  background-image: url(../assets/images/conduce.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+}
+.driver-box {
+  background-color: rgba(0,0,0,0.5);
+  float: right;
+  height: 70vh;
+  padding: 50px;
+}
+.driver-btn {
+  color: white;
+  background-color: #FBBE00;
+  border: 1px solid #FBBE00;
+}
+
+/*map section*/
+.map-box {
+  background-color: #FBBE00;
+}
+.route-box {
+  padding: 30px;
+}
+.form {
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 5px;    
+  color: white;
+  width:75%; 
+  margin: 10px;    
+}
+
+#map {
+  background-image: url(../assets/images/map.jpeg);
+  width: 350px;
+  height: 350px;
+  border: 1px solid white;
+  padding: 50px;
+  margin: 30px;
+  float: right;
+}
+
+footer {
+  background-color: #2b2b2b;
+}
+.logo {
+  width: 70px;
+  height: 20px;
+}
+.logo1 {
+  margin: 15px;
+  width: 70px;
+  height: 20px;
+}
+
+.texto-pie{
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    font-size: 1.2rem;
+    padding-top: 30px;
+}
+
+.tiendas {
+  padding-top: 170px;
+    
+}
+
+
+.store img {    
+   padding: 5px;    
+   width: 9vw;
+   height: 7vh;
+}
+
+
+footer ul li{
+  color: white;
+  text-decoration: none;
+  list-style: none;
+  padding: 8px;    
+}
+
+.copyright {
+    padding-left: 30px;
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
